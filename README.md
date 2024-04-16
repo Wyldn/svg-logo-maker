@@ -91,7 +91,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
-### Copyright © 2023 Thomas Calle
+### Copyright © 2023 Rishi Mannava
 ```md
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
